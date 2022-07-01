@@ -16,7 +16,7 @@
 ### Files Structure:
 
 - app
-- - template
+-- template
 ---master.html  # main page of web app
 ---go.html  # classification result page of web app
 --run.py  # Flask file that runs app
