@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Disaster Response Flask App
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
