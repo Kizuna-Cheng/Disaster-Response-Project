@@ -2,6 +2,9 @@
 
 This project will include a web app where an emergency worker can input a new message and get classification results in several categories. The dataset used for this project contains real messages that were sent during disaster events. In the backend, the goal would be to create a machine learning pipeline to categorize these events so that messages can be sent to an appropriate disaster relief agency.
 
+## Key Libraries and Techniques
+pandas, numpy, sqlite3, sqlalchemy, matplotlib, nltk, Sklearn (GridSearchCV, RandomForestClassifier, Pipeline, FeatureUnion, CountVectorizer, TfidfTransformer, train_test_split, classification_report)
+
 ## Project Components
 There are three components you'll need to complete for this project.
 
