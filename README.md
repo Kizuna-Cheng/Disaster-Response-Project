@@ -25,9 +25,8 @@ In a Python script, train_classifier.py, write a machine learning pipeline that:
 - Outputs results on the test set
 - Exports the final model as a pickle file
 ### 3. Flask Web App
-We are providing much of the flask web app for you, but feel free to add extra features depending on your knowledge of flask, html, css and javascript. For this part, you'll need to:
 
 - Modify file paths for database and model as needed
-- Add data visualizations using Plotly in the web app. One example is provided for you
+- Add data visualizations using Plotly in the web app. 
 
 ![alt text](https://github.com/Kizuna-Cheng/Disaster-Response-Project/blob/main/pictures/Disaster%20Response%20Flask%20App.png)
