@@ -29,3 +29,5 @@ We are providing much of the flask web app for you, but feel free to add extra f
 
 - Modify file paths for database and model as needed
 - Add data visualizations using Plotly in the web app. One example is provided for you
+
+![alt text] (https://github.com/Kizuna-Cheng/Disaster-Response-Project/blob/main/pictures/Disaster%20Response%20Flask%20App.png)
