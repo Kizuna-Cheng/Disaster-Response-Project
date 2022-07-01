@@ -27,6 +27,6 @@ In a Python script, train_classifier.py, write a machine learning pipeline that:
 ### 3. Flask Web App
 
 - Modify file paths for database and model as needed
-- Add data visualizations using Plotly in the web app. 
+- Add data visualizations using Plotly in the web app
 
 ![alt text](https://github.com/Kizuna-Cheng/Disaster-Response-Project/blob/main/pictures/Disaster%20Response%20Flask%20App.png)
